@@ -1,0 +1,354 @@
+[
+  {
+    "kichwa": "rafiki",
+    "aina": "nomino",
+    "maana": "Mtu unayemfurahia na kuwa na uhusiano mzuri naye",
+    "mfano": [
+      "Rafiki yangu anaitwa Juma (My friend is called Juma)",
+      "Tulikuwa rafiki wa dhati (We were close friends)"
+    ],
+    "matumizi": "Hutumika kwa uhusiano wa karibu",
+    "kisawe": ["ndugu", "sahibu"]
+  },
+  {
+    "kichwa": "mwalimu",
+    "aina": "nomino",
+    "maana": "Mtu anayefundisha watu shuleni, chuo kikuu, au mahali pengine",
+    "mfano": [
+      "Mwalimu wetu anafundisha Kiswahili (Our teacher teaches Swahili)",
+      "Walimu walikutana kwa mkutano (The teachers met for a conference)"
+    ],
+    "matumizi": "Hutumika kwa heshima",
+    "kisawe": ["mfundishaji", "muelimishaji"]
+  },
+  {
+    "kichwa": "mtoto",
+    "aina": "nomino",
+    "maana": "Binadamu mdogo asiyeifikia umri wa utu uzima",
+    "mfano": [
+      "Mtoto analala (The child is sleeping)",
+      "Watoto wanacheza uwanjani (Children are playing in the field)"
+    ],
+    "matumizi": "Hutumika kwa binadamu tu",
+    "kisawe": ["mwana", "kijana"]
+  },
+  {
+    "kichwa": "mwanafunzi",
+    "aina": "nomino",
+    "maana": "Mtu anayesoma shuleni, chuo kikuu, au mahali pengine pa elimu",
+    "mfano": [
+      "Mwanafunzi anaandika mtihani (The student is writing an exam)",
+      "Wanafunzi wanasoma maktabani (Students are studying in the library)"
+    ],
+    "matumizi": "Hutumika kwa mtu anayepata elimu",
+    "kisawe": ["msomi", "mwanachuo"]
+  },
+  {
+    "kichwa": "mgeni",
+    "aina": "nomino",
+    "maana": "Mtu asiye wa eneo hilo; mtu anayetembelea nyumba ya mtu mwingine",
+    "mfano": [
+      "Mgeni amefika nyumbani (A guest has arrived at home)",
+      "Tunawakaribisha wageni (We welcome visitors)"
+    ],
+    "matumizi": "Hutumika kwa mtu asiye wa mahali hapo",
+    "kisawe": ["msafiri", "mjumbe"]
+  },
+  {
+    "kichwa": "kitabu",
+    "aina": "nomino",
+    "maana": "Makaratasi yaliyoandikwa au kuchapishwa na kuunganishwa pamoja kwa ajili ya kusoma",
+    "mfano": [
+      "Ninasoma kitabu cha Kiswahili (I am reading a Swahili book)",
+      "Vitabu viko mezani (The books are on the table)"
+    ],
+    "matumizi": "Hutumika kwa vitu vya kusoma",
+    "kisawe": ["daftari", "riwaya"]
+  },
+  {
+    "kichwa": "kisu",
+    "aina": "nomino",
+    "maana": "Chuma chenye makali kinachotumika kukata vitu",
+    "mfano": [
+      "Anakata nyama kwa kisu (He is cutting meat with a knife)",
+      "Visu vikali vinahitajika jikoni (Sharp knives are needed in the kitchen)"
+    ],
+    "matumizi": "Hutumika kwa kukata",
+    "kisawe": ["upanga", "jembe"]
+  },
+  {
+    "kichwa": "kikombe",
+    "aina": "nomino",
+    "maana": "Chombo kidogo cha kunywea chai, kahawa, au maji",
+    "mfano": [
+      "Nakunywa chai kwenye kikombe (I am drinking tea in a cup)",
+      "Vikombe vimeoshwa (The cups are washed)"
+    ],
+    "matumizi": "Hutumika kwa kunywea vinywaji",
+    "kisawe": ["bilauri", "glasi"]
+  },
+  {
+    "kichwa": "kiti",
+    "aina": "nomino",
+    "maana": "Samani ya kukalia yenye mgongo na mikono au bila mikono",
+    "mfano": [
+      "Keti kwenye kiti (Sit on the chair)",
+      "Viti vimepangwa vizuri (The chairs are arranged well)"
+    ],
+    "matumizi": "Hutumika kwa kukalia",
+    "kisawe": ["mwiko", "ueo"]
+  },
+  {
+    "kichwa": "chakula",
+    "aina": "nomino",
+    "maana": "Kitu kinacholiwa ili kuupa mwili nguvu na kukua",
+    "mfano": [
+      "Chakula kitamu kimepikwa (Delicious food has been cooked)",
+      "Vyakula vya asili ni bora (Traditional foods are better)"
+    ],
+    "matumizi": "Hutumika kwa kitu kinacholiwa",
+    "kisawe": ["mlo", "kimlo"]
+  },
+  {
+    "kichwa": "nyumba",
+    "aina": "nomino",
+    "maana": "Jengo la kuishi au kukaa",
+    "mfano": [
+      "Nyumba yangu iko karibu na shule (My house is near the school)",
+      "Nyumba mpya inajengwa (A new house is being built)"
+    ],
+    "matumizi": "Hutumika kwa makazi",
+    "kisawe": ["makao", "jumba"]
+  },
+  {
+    "kichwa": "gari",
+    "aina": "nomino",
+    "maana": "Chombo cha usafiri chenye magurudumu kinachoendeshwa na injini",
+    "mfano": [
+      "Gari jipya linauzwa (A new car is for sale)",
+      "Magari yanasubiri kwenye taa za barabarani (Cars are waiting at traffic lights)"
+    ],
+    "matumizi": "Hutumika kwa usafiri",
+    "kisawe": ["motokaa", "chombo"]
+  },
+  {
+    "kichwa": "shule",
+    "aina": "nomino",
+    "maana": "Mahali pa kujifunzia elimu",
+    "mfano": [
+      "Watoto wanaenda shule (Children are going to school)",
+      "Shule yetu ina wanafunzi wengi (Our school has many students)"
+    ],
+    "matumizi": "Hutumika kwa elimu",
+    "kisawe": ["chuo", "madrasa"]
+  },
+  {
+    "kichwa": "mji",
+    "aina": "nomino",
+    "maana": "Eneo kubwa lenye nyumba nyingi na shughuli nyingi za kiuchumi",
+    "mfano": [
+      "Nairobi ni mji mkubwa (Nairobi is a big city)",
+      "Anaishi mjini (He lives in the city)"
+    ],
+    "matumizi": "Hutumika kwa makao makubwa",
+    "kisawe": ["jiji", "kitowni"]
+  },
+  {
+    "kichwa": "maji",
+    "aina": "nomino (wingi)",
+    "maana": "Umajimaji usio na rangi unaotumiwa kunywa, kuoga na kupikia",
+    "mfano": [
+      "Maji ya kunywa yanatosha (Drinking water is enough)",
+      "Anga maji moto kwa chai (Boil hot water for tea)"
+    ],
+    "matumizi": "Hutumika kwa kitu cha kioevu",
+    "kisawe": ["majimaji"]
+  },
+  {
+    "kichwa": "moto",
+    "aina": "nomino",
+    "maana": "Joto kali pamoja na mwale unaotokana na kuchoma kitu",
+    "mfano": [
+      "Moto unawaka jikoni (Fire is burning in the kitchen)",
+      "Kaa mbali na moto (Stay away from fire)"
+    ],
+    "matumizi": "Hutumika kwa joto kali",
+    "kisawe": ["mwako", "wali"]
+  },
+  {
+    "kichwa": "ua",
+    "aina": "nomino",
+    "maana": "Sehemu ya mmea yenye ranga nzuri na harufu nzuri",
+    "mfano": [
+      "Alinipa ua zuri (She gave me a beautiful flower)",
+      "Maua yamechanika bustanini (Flowers have bloomed in the garden)"
+    ],
+    "matumizi": "Hutumika kwa mimea ya mapambo",
+    "kisawe": ["chanja"]
+  },
+  {
+    "kichwa": "mbwa",
+    "aina": "nomino",
+    "maana": "Mnyama wa kufugwa anayeweza kulinda nyumba",
+    "mfano": [
+      "Mbwa anabweka (The dog is barking)",
+      "Mbwa mwitu wana hatari (Wild dogs are dangerous)"
+    ],
+    "matumizi": "Hutumika kwa mnyama",
+    "kisawe": ["wewe"]
+  },
+  {
+    "kichwa": "paka",
+    "aina": "nomino",
+    "maana": "Mnyama mdogo wa kufugwa anayependa kula panya",
+    "mfano": [
+      "Paka anawinda panya (The cat is hunting a rat)",
+      "Paka wetu ana watoto watatu (Our cat has three kittens)"
+    ],
+    "matumizi": "Hutumika kwa mnyama",
+    "kisawe": ["kaku"]
+  },
+  {
+    "kichwa": "ndege",
+    "aina": "nomino",
+    "maana": "Mnyama mwenye mabawa na manyoya anayeweza kuruka",
+    "mfano": [
+      "Ndege wanaimba asubuhi (Birds are singing in the morning)",
+      "Ndege akaruka angani (The bird flew in the sky)"
+    ],
+    "matumizi": "Hutumika kwa mnyama anayeruka",
+    "kisawe": ["nyuni"]
+  },
+  {
+    "kichwa": "samaki",
+    "aina": "nomino",
+    "maana": "Mnyama anayeishi ndani ya maji anayeweza kuliwa",
+    "mfano": [
+      "Samaki wanaogelea mtoni (Fish are swimming in the river)",
+      "Tulikula samaki waliokaanga (We ate fried fish)"
+    ],
+    "matumizi": "Hutumika kwa mnyama wa majini",
+    "kisawe": ["vuvi"]
+  },
+  {
+    "kichwa": "mwaka",
+    "aina": "nomino",
+    "maana": "Kipindi cha muda cha siku 365 au 366",
+    "mfano": [
+      "Mwaka mpya umefika (New year has arrived)",
+      "Alisoma kwa miaka minne (He studied for four years)"
+    ],
+    "matumizi": "Hutumika kwa muda",
+    "kisawe": ["sana", "ahadi"]
+  },
+  {
+    "kichwa": "siku",
+    "aina": "nomino",
+    "maana": "Kipindi cha muda cha masaa 24 kuanzia jua linapochomoza hadi linapochomoza tena",
+    "mfano": [
+      "Siku njema (Good day)",
+      "Kesho ni siku nyingine (Tomorrow is another day)"
+    ],
+    "matumizi": "Hutumika kwa muda wa masaa",
+    "kisawe": ["mchana", "usiku"]
+  },
+  {
+    "kichwa": "usiku",
+    "aina": "nomino",
+    "maana": "Kipindi cha giza wakati jua linapozama hadi linapochomoza tena",
+    "mfano": [
+      "Usiku mwema (Good night)",
+      "Alifika usiku wa manane (He arrived late at night)"
+    ],
+    "matumizi": "Hutumika kwa muda wa giza",
+    "kisawe": ["giza"]
+  },
+  {
+    "kichwa": "asubuhi",
+    "aina": "nomino",
+    "maana": "Wakati wa mapema baada ya jua kuchomoza",
+    "mfano": [
+      "Asubuhi njema (Good morning)",
+      "Huanza kazi asubuhi (He starts work in the morning)"
+    ],
+    "matumizi": "Hutumika kwa wakati wa mchana",
+    "kisawe": ["mapema"]
+  },
+  {
+    "kichwa": "jioni",
+    "aina": "nomino",
+    "maana": "Wakati wa mwisho wa mchana kabla ya jua kuzama",
+    "mfano": [
+      "Jioni njema (Good evening)",
+      "Tutakutana jioni (We'll meet in the evening)"
+    ],
+    "matumizi": "Hutumika kwa wakati wa mwisho wa mchana",
+    "kisawe": ["magharibi"]
+  },
+  {
+    "kichwa": "nyumbani",
+    "aina": "kielezi",
+    "maana": "Mahali pa kuishi au kukaa",
+    "mfano": [
+      "Niko nyumbani (I am at home)",
+      "Karibu nyumbani (Welcome home)"
+    ],
+    "matumizi": "Hutumika kuelezea mahali",
+    "kisawe": ["makazi"]
+  },
+  {
+    "kichwa": "shuleni",
+    "aina": "kielezi",
+    "maana": "Mahali pa kujifunzia elimu",
+    "mfano": [
+      "Ninaenda shuleni (I am going to school)",
+      "Walimu wapo shuleni (Teachers are at school)"
+    ],
+    "matumizi": "Hutumika kuelezea mahali",
+    "kisawe": ["darasani"]
+  },
+  {
+    "kichwa": "kanisani",
+    "aina": "kielezi",
+    "maana": "Mahali pa kuabudia",
+    "mfano": [
+      "Wanaenda kanisani Jumapili (They go to church on Sunday)",
+      "Kuna mkutano kanisani (There is a meeting at church)"
+    ],
+    "matumizi": "Hutumika kwa mahali pa ibada",
+    "kisawe": ["msikitini"]
+  },
+  {
+    "kichwa": "msikitini",
+    "aina": "kielezi",
+    "maana": "Mahali pa kuabudia Waislamu",
+    "mfano": [
+      "Wanaenda msikitini Ijumaa (They go to the mosque on Friday)",
+      "Aliomba msikitini (He prayed at the mosque)"
+    ],
+    "matumizi": "Hutumika kwa mahali pa ibada ya Kiislamu",
+    "kisawe": ["kanisani"]
+  },
+  {
+    "kichwa": "sokoni",
+    "aina": "kielezi",
+    "maana": "Mahali pa kununulia na kuuzia bidhaa",
+    "mfano": [
+      "Mama anaenda sokoni (Mother is going to the market)",
+      "Tulikutana sokoni (We met at the market)"
+    ],
+    "matumizi": "Hutumika kwa mahali pa biashara",
+    "kisawe": ["gulioni"]
+  },
+  {
+    "kichwa": "hospitalini",
+    "aina": "kielezi",
+    "maana": "Mahali pa kupata matibabu",
+    "mfano": [
+      "Mgonjwa yuko hospitalini (The patient is in the hospital)",
+      "Ninaenda hospitalini kumwona daktari (I'm going to the hospital to see the doctor)"
+    ],
+    "matumizi": "Hutumika kwa mahali pa matibabu",
+    "kisawe": ["zahanati"]
+  }
+]
